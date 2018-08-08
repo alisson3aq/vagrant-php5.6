@@ -1,13 +1,13 @@
 # Configurações do Servidor 
 
-hostname        = "localhost"
+hostname        = "dev"
 
 # Definir um endereço IP de rede local
 # Você pode usar os seguintes intervalos de IP:
 #   10.0.0.1    - 10.255.255.254
 #   172.16.0.1  - 172.31.255.254
 #   192.168.0.1 - 192.168.255.254
-server_ip             = "192.168.22.10"
+server_ip             = "192.168.31.16"
 server_cpus           = "1"   # Cores
 server_memory         = "512" # MB
 server_swap           = "1024" # Opções: false | Int (MB) - Entre uma ou duas vezes mais que server_memory
